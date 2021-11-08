@@ -16,7 +16,7 @@ I'm interested in controls engineering, specifically trajectory optimization and
   ---
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/cttdev/cttdev/main/resources/icon.ico" height="50">
+    <img src="https://github.com/cttdev/cttdev/blob/main/resources/quikplan.png" height="60">
   </p>
 
 
