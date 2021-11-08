@@ -21,7 +21,7 @@ I'm interested in controls engineering, specifically trajectory optimization and
 
 
   <p align="center">
-    <a href="https://github.com/wpilibsuite/allwpilib"><em>Quikplan</em></a>: Developed a <a href="https://www.youtube.com/watch?v=0hyvYzN-jH0">time-optimal trajectory generator</a> for wheeled, nonholonomic robots in Python.
+    <a href="https://github.com/frc604/quikplan-public"><em>Quikplan</em></a>: Developed a <a href="https://www.youtube.com/watch?v=0hyvYzN-jH0">time-optimal trajectory generator</a> for wheeled, nonholonomic robots in Python.
   </p>
 
   ---
