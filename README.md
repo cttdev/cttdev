@@ -10,7 +10,7 @@ I'm interested in controls engineering, specifically trajectory optimization and
   </p>
 
   <p align="center">
-    <a href="https://github.com/wpilibsuite/allwpilib"><em>WPILib</em></a>: Worked on a modern controls/state-space library for WPILib in both Java and C++.
+    <a href="https://github.com/wpilibsuite/allwpilib"><em>WPILib</em></a>: Worked on a modern controls library for WPILib in both Java and C++.
   </p>
 
   ---
