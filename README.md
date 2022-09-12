@@ -1,4 +1,4 @@
-Hi! I'm Claudius, a student at Leland High School in San Jose and the Co-President of *FIRST* Robotics Competition Team 604 Quixilver.
+Hi! I'm Claudius, a student at Massachusetts Institute of Technology studying Mechanical Engineering with a concentration in Robotics.
 
 I'm interested in controls engineering, specifically trajectory optimization and nonlinear control.
 
