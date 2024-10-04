@@ -1,8 +1,6 @@
 Hi! I'm Claudius, a student at Massachusetts Institute of Technology studying Mechanical Engineering with a concentration in Robotics.
 
-I'm interested in controls engineering, specifically trajectory optimization and nonlinear control.
-
-
+<!--
 <details>
   <summary markdown="span">Here's some stuff I've worked on:</summary>
   <p align="center">
@@ -30,3 +28,4 @@ I'm interested in controls engineering, specifically trajectory optimization and
     <em>Robotnik</em>: Maintained a robot control framework in Java.
   </p>
 </details>
+-->
